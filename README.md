@@ -1,8 +1,8 @@
-# Chat - AI
+# MedChat - AI
 
 AI Chat App using Generative Language Client API
 
-[chat-ai](https://ai.visheshpandey.com)
+[medchatbot]
 
 ## Setup Procedure
 
